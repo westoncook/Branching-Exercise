@@ -2,4 +2,4 @@ git branch New_Branch_Name
 fast forward simply adds new changes, recursive uses commit dates to see what changes go where.
 git checkout New_Destination_Branch
 git branch -d Branch_to_Delete
-merge conflicts occur when there are conflicting changes in the branches to be merged.
+merge conflists occur when there are different committed changes in the branches to be merged.
